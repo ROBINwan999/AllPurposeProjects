@@ -1,0 +1,3 @@
+/Users/robin/CLionProjects/Computer Room Reservation System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/robin/CLionProjects/Computer Room Reservation System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robin/CLionProjects/Computer Room Reservation System/cmake-build-debug/CMakeFiles/Computer_Room_Reservation_System.dir

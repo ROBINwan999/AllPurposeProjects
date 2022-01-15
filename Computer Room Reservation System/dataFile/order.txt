@@ -1,0 +1,2 @@
+Date:1 Interval:1 StudentID:22 StudentName:cindy RoomID:1 Status:1
+Date:3 Interval:2 StudentID:11 StudentName:robin RoomID:3 Status:1
