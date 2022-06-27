@@ -1,0 +1,3 @@
+/Users/robin/CLionProjects/StudentMarkAnalysisSystem/cmake-build-debug/CMakeFiles/StudentMarkAnalysisSystem.dir
+/Users/robin/CLionProjects/StudentMarkAnalysisSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robin/CLionProjects/StudentMarkAnalysisSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
