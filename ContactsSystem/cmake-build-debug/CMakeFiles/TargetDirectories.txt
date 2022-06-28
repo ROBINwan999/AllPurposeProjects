@@ -1,0 +1,3 @@
+/Users/robin/CLionProjects/ContactsSystem/cmake-build-debug/CMakeFiles/ContactsSystem.dir
+/Users/robin/CLionProjects/ContactsSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robin/CLionProjects/ContactsSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
