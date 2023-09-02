@@ -1,6 +1,6 @@
 # 项目介绍
 
-这是我的Github第一个仓库，包括了我学习各种C++以及其他语言后实践的程序集合
+这是我的Github第一个仓库，主要涵盖了本科期间学习编程后的实践集合
 
 [手机通讯录系统](https://github.com/ROBINwan999/RobinFirst-XXX/tree/main/ContactsSystem)
 
